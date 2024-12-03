@@ -1,1 +1,37 @@
-[]
+{
+    "exam_type": "Mid Term Examination",
+    "exam_date": "2024-12-15",
+    "schedule": [
+      {
+        "subject": "Engineering Graphics",
+        "date": "2024-12-15",
+        "time": "9:00 AM - 11:00 AM",
+        "room": "101"
+      },
+      {
+        "subject": "Mathematical Engineering",
+        "date": "2024-12-16",
+        "time": "12:00 PM - 2:00 PM",
+        "room": "102"
+      },
+      {
+        "subject": "Computer Architecture",
+        "date": "2024-12-17",
+        "time": "9:00 AM - 11:00 AM",
+        "room": "103"
+      },
+      {
+        "subject": "Database Management",
+        "date": "2024-12-18",
+        "time": "2:00 PM - 4:00 PM",
+        "room": "104"
+      },
+      {
+        "subject": "Network Security",
+        "date": "2024-12-19",
+        "time": "11:00 AM - 1:00 PM",
+        "room": "105"
+      }
+    ]
+  }
+  

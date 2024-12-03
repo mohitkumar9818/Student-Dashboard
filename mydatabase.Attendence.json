@@ -1,1 +1,38 @@
-[]
+{
+    "student_id": "2315510128",
+    "name": "Mohit",
+    "course": "BTech. Computer Science & Engineering AiMl and IOT",
+    "subjects": [
+      {
+        "subject_name": "Engineering Graphics",
+        "attended": 12,
+        "total_classes": 14,
+        "percentage": 90
+      },
+      {
+        "subject_name": "Mathematical Engineering",
+        "attended": 27,
+        "total_classes": 29,
+        "percentage": 93
+      },
+      {
+        "subject_name": "Computer Architecture",
+        "attended": 27,
+        "total_classes": 30,
+        "percentage": 81
+      },
+      {
+        "subject_name": "Database Management",
+        "attended": 24,
+        "total_classes": 25,
+        "percentage": 96
+      },
+      {
+        "subject_name": "Network Security",
+        "attended": 25,
+        "total_classes": 27,
+        "percentage": 92
+      }
+    ]
+  }
+  

@@ -1,3 +1,18 @@
+![Screenshot 2024-12-03 200454](https://github.com/user-attachments/assets/ba8badbf-0874-433b-a141-18d0b634f76c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Student-Dashboard
 A student dashboard is a web-based interface designed to provide students with a centralized platform to access and manage academic, personal, and administrative information. Here's a detailed description:
 Features of a Student Dashboard:
